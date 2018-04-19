@@ -50,10 +50,11 @@
 	color: white;
 	text-align: center;
 	font-size: 1.3rem;
+	line-height: 1.6vw;
 }
 
 .parrafo1 {
-	padding: 1vw 10vw;
+	padding: 2vw 10vw;
 	margin-top: 1vw;
 }
 
@@ -62,6 +63,19 @@
 	padding: 4vw;
 }
 
-.titulo2 p {
+.titulo2 p, .footer p {
 	font-size: 1.3rem;
+	line-height: 1.6vw;
+}
+
+h4 {
+	font-weight: bold;
+	text-align: center;
+}
+
+.footer {
+	padding: 5vw 23vw;
+	text-align: center;
+	background-color: #fefcfc;
+	border-top: 1px solid #ededed;
 }
