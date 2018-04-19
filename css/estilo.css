@@ -49,7 +49,7 @@
 .parrafo1 p {
 	color: white;
 	text-align: center;
-	font-size: 1.5rem;
+	font-size: 1.3rem;
 }
 
 .parrafo1 {
@@ -60,4 +60,8 @@
 .titulo2 {
 	text-align: center;
 	padding: 4vw;
+}
+
+.titulo2 p {
+	font-size: 1.3rem;
 }
