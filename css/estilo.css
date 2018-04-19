@@ -23,6 +23,7 @@
 
 .titulo {
 	padding: 1vw 17vw; 
+	padding-bottom: 2vw;
 }
 
 .navbar-brand {
@@ -50,12 +51,11 @@
 	color: white;
 	text-align: center;
 	font-size: 1.3rem;
-	line-height: 1.6vw;
 }
 
 .parrafo1 {
 	padding: 2vw 10vw;
-	margin-top: 1vw;
+	margin-top: 1vw; 
 }
 
 .titulo2 {
@@ -65,7 +65,6 @@
 
 .titulo2 p, .footer p {
 	font-size: 1.3rem;
-	line-height: 1.6vw;
 }
 
 h4 {
@@ -75,7 +74,37 @@ h4 {
 
 .footer {
 	padding: 5vw 23vw;
+	padding-bottom: 3vw;
 	text-align: center;
 	background-color: #fefcfc;
 	border-top: 1px solid #ededed;
+	border-bottom: 1px solid #ededed;
+	margin-bottom: 4vw;
+}
+
+.footer p {
+	margin-bottom: 20px;
+}
+
+.boton3 {
+	margin: 10px;
+}
+
+.parrafo4 {
+	margin-top: 25px;
+}
+
+.contacto {
+	padding: 0 3vw;
+}
+
+.ultimo {
+	margin-bottom: 4vw;
+}
+
+.termino {
+	margin-bottom: 0px;
+	background-color: black;
+	color: white;
+	padding: 2vw;
 }
