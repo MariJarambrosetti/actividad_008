@@ -1,0 +1,62 @@
+.header {
+	background-image: url(../images/bg.jpeg);
+	padding-bottom: 0px;
+}
+
+.navbar-default {
+	background: transparent;
+	border: 0px;
+}
+
+.logo-latam {
+	height: 100%;
+}
+
+.navbar-right li {
+	color: #ededed;
+}
+
+.titulo h2 {
+	text-align: center;
+	color: white;
+}
+
+.titulo {
+	padding: 1vw 17vw; 
+}
+
+.navbar-brand {
+	padding: 5px;
+}
+
+.botones {
+	text-align: center;
+}
+
+.boton {
+	background-color: #337ab7;
+    border-radius: 4px;
+    padding: 10px;
+    margin-right: 10px;
+    color: white;
+    text-decoration: none;
+}
+
+.boton2 {
+	background-color: #5cb85c;
+}
+
+.parrafo1 p {
+	color: white;
+	text-align: center;
+	font-size: 1.5rem;
+}
+
+.parrafo1 {
+	padding: 1vw 10vw;
+	margin-top: 1vw;
+}
+
+.titulo2 {
+	text-align: center;
+}
